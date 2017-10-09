@@ -2,6 +2,5 @@ Grupo 01
 
 1. RM104214	Nancy Marielos Ruiz Mejia
 2. OG100609	Roberto Alvaro Orellana Guillen
-3. LC102112	Erick Yorel Leiva Castaneda
-4. MT10130	Diego Rodrigo Mejia Tores
-5. HA100714	Agustin Henriquez Alvarenga
+3. MT10130	Diego Rodrigo Mejia Tores
+4. HA100714	Agustin Henriquez Alvarenga
